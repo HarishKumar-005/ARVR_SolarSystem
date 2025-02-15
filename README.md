@@ -5,7 +5,7 @@ This project is an immersive AR/VR experience that lets you explore the solar sy
 
 Hackathon Experience"
 
-I built this project as part of Hack Forge 1.0, a national-level hackathon, with my team LEAPING MIND. This event was a fantastic opportunity to explore innovative AR/VR solutions for education.
+I built this project as part of Hack Forge 1.0 Team ID: TEM8283, a national-level hackathon, with my team LEAPING MIND. This event was a fantastic opportunity to explore innovative AR/VR solutions for education.
 
 Features:
 
