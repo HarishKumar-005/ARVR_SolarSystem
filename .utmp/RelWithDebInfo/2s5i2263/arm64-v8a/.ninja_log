@@ -1,0 +1,23 @@
+# ninja log v5
+48	9101	7613406167707758	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	b577c77763b8f3fb
+101	1108	7613406098057772	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	36826f3a0d8ea5d4
+38	6493	7613406152827573	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	cbddd98e95d5b9bd
+58	8229	7613406150907247	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	95787a31a4f84fd6
+1109	3833	7613406110952305	D:/Unity ARVR/Unity Projects/Final/Solar_System/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2s5i2263/obj/arm64-v8a/libswappywrapper.so	fe2be736d9669103
+69	8077	7613406150257714	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	78b777aff07839a3
+13	7802	7613406143345914	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	6d164eafacfad8c4
+92	8409	7613406153732941	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	19597224d118df4a
+27	8325	7613406153052455	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	3a5d79126aa84fb
+79	8784	7613406160387109	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	4e3e4aeaafb6882a
+9101	10459	7613406184001560	D:/Unity ARVR/Unity Projects/Final/Solar_System/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2s5i2263/obj/arm64-v8a/libgame.so	6b2dca2950c14524
+421	1884	7613488877103784	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	36826f3a0d8ea5d4
+1885	12530	7613488895538291	D:/Unity ARVR/Unity Projects/Final/Solar_System/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2s5i2263/obj/arm64-v8a/libswappywrapper.so	fe2be736d9669103
+50	12600	7613488928341162	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	6d164eafacfad8c4
+214	12621	7613488941402388	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	19597224d118df4a
+101	17913	7613488931554406	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	95787a31a4f84fd6
+60	18273	7613488932534369	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	3a5d79126aa84fb
+73	18338	7613488929604588	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	78b777aff07839a3
+40	18355	7613488938582713	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	cbddd98e95d5b9bd
+86	18827	7613488949238040	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	4e3e4aeaafb6882a
+22	18919	7613488957813899	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	b577c77763b8f3fb
+18919	19143	7613489050904642	D:/Unity ARVR/Unity Projects/Final/Solar_System/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2s5i2263/obj/arm64-v8a/libgame.so	6b2dca2950c14524
